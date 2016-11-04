@@ -1,0 +1,57 @@
+body {
+	background:rgb(192, 236, 168);
+	font-family: 'Noto Serif', serif;
+	font-size:16px;
+	margin:0;
+}
+#logo {
+	background-image: url(images/logo.gif);
+	width: 17.6%;
+	height: 100%;
+	margin: 0;
+	height: 176px;
+}
+#heder-img,section {
+	float: right;
+}
+#heder-img {
+	background-image: url(images/header_bg.gif);
+	height: 50px;
+	width: 82.5%;
+}
+section {
+	width: 80%;
+	background-image: url(images/leaf.gif);
+	background-size: contain;
+}
+aside {
+	width: 17.6%;
+    margin: 8px;
+}
+ul {
+	padding:0;
+	list-style-type: none;
+}
+ul li {
+	font-size: 80%;
+	margin: 10px;
+}
+h5 {
+	display:inline;
+}
+div#nav1 {
+    background: rgb(174, 230, 147);
+    padding: 8px;
+    border-radius: 8px;
+}
+h3 {
+    background: rgb(89, 153, 58);
+    position: relative;
+    top: 4px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    padding: 5px;
+    color:#FFF;
+    text-align: center;
+    margin: 0;
+}
